@@ -1,0 +1,30 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+
+# IDE and editor folders
+.idea/
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variable files (e.g., API keys)
+.env
+
+# Logs
+*.log
+
+# Distribution/Packaging files
+dist/
+build/
+*.egg-info/
+
+# macOS and Windows system files
+.DS_Store
+Thumbs.db
