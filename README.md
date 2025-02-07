@@ -1,2 +1,14 @@
-# chatbot-ai
-Chatbot using DialoGPT: A simple chatbot built with Hugging Face's DialoGPT-medium model. It supports interactive conversations, maintains chat history, and provides diverse responses using temperature and top-p sampling. Perfect for personal assistants or customer support applications.
+📌 Description for Your GitHub Repository
+🤖 Chatbot Using DialoGPT
+This project is a simple chatbot built using Hugging Face's DialoGPT (Medium model). It allows interactive conversations and can be used for customer support, personal assistants, or general AI chatting.
+
+🚀 Features:
+✅ Uses DialoGPT-medium for natural conversations
+✅ Maintains chat history for better context
+✅ Temperature & top-p sampling for diverse responses
+✅ Simple Python script (runs locally or in the cloud)
+
+📦 Dependencies:
+
+transformers (Hugging Face library)
+torch (PyTorch for model execution)
